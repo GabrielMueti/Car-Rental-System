@@ -1,1 +1,1 @@
-# car-rental-system
+This is a car rental system in java that has three classes for the entities car,customermanagement and rental agency.The functionalities of the sysytem prompts an employee for the rental agency to input the car model and number plate of the rented car.It also prompts the user to input the day and date a car is rented and the period it is rented for.The user can also input the cost of a rented car and it prints a receipt after a car is rented.Once a car is retrned the day and date that it is returned can be input into the system.
